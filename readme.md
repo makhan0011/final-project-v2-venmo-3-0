@@ -14,6 +14,6 @@ Examples:
 
 Add your names, and features you will be adding below:
 ### Add team name here
-- Member name, git id
-    - Front end feature
-    - Back end feature
+- Kevin Ly, kinyoshira
+    - Display message of transfer
+    - add message to transfer (like venmo)
