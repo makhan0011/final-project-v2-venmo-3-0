@@ -19,3 +19,6 @@ Add your names, and features you will be adding below:
     - add message to transfer (like venmo)
 - Mohammed Khan, makhan0011
     - Favorites/list
+- Asma Islam, asmaxislam
+    - display funds on credit
+    - send funds on credit
